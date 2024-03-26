@@ -6,7 +6,7 @@ import { HousingLocation } from './housinglocation';
 })
 export class HousingService {
 
-  url = 'http://localhost:3000/locations';
+  url = 'https://my-json-server.typicode.com/bcgrillo/jsonserver/locations';
 
   constructor() { }
 
